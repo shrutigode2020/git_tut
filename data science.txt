@@ -1,2 +1,5 @@
 This is my data science project.
 modules used: pandas,matpltlib
+pandas is used for data analysis
+matplotlib is used for data visualization
+
